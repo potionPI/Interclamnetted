@@ -9,7 +9,7 @@ window.onload = function(){
 	var navVineBottom = document.getElementById("navVineBottom");
 
 	pearlHome.onmouseover = function() {
-		pearlHome.src="../assets/pearlHomeFilled.svg";
+		pearlHome.src="{{ site.url }}/assets/pearlHomeFilled.svg";
 		pearlHomeText.style.display="none";
 	}
 	pearlHome.onmouseout = function() {
