@@ -13,7 +13,7 @@ window.onload = function(){
 		pearlHomeText.style.display="none";
 	}
 	pearlHome.onmouseout = function() {
-		pearlHome.src="../assets/pearlHome.svg";
+		pearlHome.src="{{ site.url }}/assets/pearlHome.svg";
 		pearlHomeText.style.display="inline-block";
 	}
 	pearl1.onmouseover = function() {
