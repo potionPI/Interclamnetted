@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	{% include headContentVer.html %}
+<body>
+	<div class="divWrapEverything">
+		<div class="divWrapLogo"><a href="{{ site.url }}"><img src="{{ site.url }}/assets/logo.svg" /></a></div>
+
+		<div class="divWrapBarredBody">
+			<div class="divTopBar"><img src="{{ site.url }}/assets/bodyBar.svg" /></div>
+			
+			{% include nav.html %}
+
+			<div class="contentDiv">
+			{{ content }}
+			</div>
+
+			<div class="divBottomBar"><div class="divTopBar"><img src="{{ site.url }}/assets/bodyBar.svg" /></div></div>
+		</div>
+
+	{% include footer.html %}
+	</div>
+
+</body>
+</html>

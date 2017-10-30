@@ -1,0 +1,34 @@
+/* h1 */
+.darkGreenText1 {
+	color: #43473F;
+}
+
+/* h2 */
+.darkGreenText2 {
+	color: #4D5149;
+}
+
+/* h3 */
+.darkGreenText3 {
+	color: #545B4D;
+}
+
+/* p */
+.blueText {
+	color: #E1F7F9;
+}
+
+/* p highlighted */
+.pinkText {
+	color: #F9E1F7;
+}
+
+/* span lamp-bug's highlighting */
+.yellowText {
+	color: #FFFEE9;
+}
+
+/* links */
+.grayText {
+	color: #F0F1F2;
+}

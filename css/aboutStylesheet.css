@@ -1,0 +1,14 @@
+#aboutHeading {
+	text-align: center;
+}
+
+#aboutIntro {
+	display: flex;
+	width: 100%;
+	font-size: 18px;
+}
+
+#aboutIntro img {
+	width: 30%;
+	padding-right: 5%;
+}

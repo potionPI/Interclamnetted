@@ -1,0 +1,16 @@
+img#indexLampBug {
+	margin-left: 30%;
+	width: 40%;
+}
+
+#indexIntro {
+	text-align: center;
+}
+
+#indexIntro h1 {
+	font-size: 30px;
+}
+
+#indexIntro p {
+	font-size: 20px;
+}

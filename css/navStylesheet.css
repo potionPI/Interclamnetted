@@ -1,0 +1,62 @@
+.navVineWrapper {
+	width: 9%;
+	height: 20vh;
+	margin-left: 0;
+	margin-top: -5%;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-content: flex-start;
+	position: absolute;
+	z-index: 999999;
+}
+
+.navVineWrapper img {
+	width: 100%;
+}
+
+img#navVineTop {
+	width: 5%;
+	margin-left: 45%;
+}
+
+img#navVineMiddle {
+	width: 5%;
+	margin-left: 45%;
+}
+
+img#navVineMiddle2 {
+	width: 5%;
+	margin-left: 45%;
+}
+
+img#navVineBottom {
+	width: 8%;
+	margin-left: 45%;
+}
+
+img#pearlHome {
+	padding-bottom: 2%;
+}
+img#pearl1 {
+	padding-bottom: 2%;
+}
+img#pearl2 {
+	padding-bottom: 2%;
+}
+img#navVineTFH {
+	width: 100%;
+}
+img#pearlHome:hover {
+	cursor: pointer;
+}
+img#pearl1:hover {
+	cursor: pointer;
+}
+img#pearl2:hover {
+	padding-bottom: 2%;
+	cursor: pointer;
+}
+img#navVineTFH:hover {
+	cursor: pointer;
+}
