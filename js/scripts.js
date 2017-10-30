@@ -9,36 +9,36 @@ window.onload = function(){
 	var navVineBottom = document.getElementById("navVineBottom");
 
 	pearlHome.onmouseover = function() {
-		pearlHome.src="../assets/pearlHomeFilled.svg";
+		pearlHome.src="https://potionpi.github.io/Interclamnetted/assets/pearlHomeFilled.svg";
 		pearlHomeText.style.display="none";
 	}
 	pearlHome.onmouseout = function() {
-		pearlHome.src="../assets/pearlHome.svg";
+		pearlHome.src="https://potionpi.github.io/Interclamnetted/assets/pearlHome.svg";
 		pearlHomeText.style.display="inline-block";
 	}
 	pearl1.onmouseover = function() {
-		pearl1.src="../assets/pearl1Filled.svg";
+		pearl1.src="https://potionpi.github.io/Interclamnetted/assets/pearl1Filled.svg";
 		pearl1Text.style.display="none";
 	}
 	pearl1.onmouseout = function() {
-		pearl1.src="../assets/pearl1.svg";
+		pearl1.src="https://potionpi.github.io/Interclamnetted/assets/pearl1.svg";
 		pearl1Text.style.display="inline-block";
 	}
 	var pearl2 = document.getElementById("pearl2");
 	var pearl2Text = document.getElementById("pearl2Text");
 	pearl2.onmouseover = function() {
-		pearl2.src="../assets/pearl2Filled.svg";
+		pearl2.src="https://potionpi.github.io/Interclamnetted/assets/pearl2Filled.svg";
 		pearl2Text.style.display="none";
 	}
 	pearl2.onmouseout = function() {
-		pearl2.src="../assets/pearl2.svg";
+		pearl2.src="https://potionpi.github.io/Interclamnetted/assets/pearl2.svg";
 		pearl2Text.style.display="inline-block";
 	}
 	navVineTFH.onmouseover = function() {
-		navVineTFH.src="../assets/navVineTFH2.svg";
+		navVineTFH.src="https://potionpi.github.io/Interclamnetted/assets/navVineTFH2.svg";
 	}
 	navVineTFH.onmouseout = function() {
-		navVineTFH.src="../assets/navVineTFH.svg"
+		navVineTFH.src="https://potionpi.github.io/Interclamnetted/assets/navVineTFH.svg"
 	}
 
 	function TFHToggle() {
